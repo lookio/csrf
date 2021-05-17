@@ -98,7 +98,7 @@
       "preset-github"
     ]
   },
-  "repository": "koajs/csrf",
+  "repository": "https://github.com/lookio/csrf",
   "scripts": {
     "ava": "cross-env NODE_ENV=test ava",
     "build": "npm run build:clean && npm run build:lib",
